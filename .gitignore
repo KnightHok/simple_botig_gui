@@ -1,0 +1,19 @@
+# random
+
+./files
+./attempts
+.env
+cli.py
+
+attempts/
+venv/
+installer/
+
+setup.py
+
+.DS_Store
+
+**/__pycache__
+smn_bot/thumbnails
+smn_bot/videos
+client_settings.json
